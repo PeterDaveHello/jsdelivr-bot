@@ -26,5 +26,5 @@ It looks like you want to contribute to `jsdelivr/jsdelivr`, @{{login}}, however
 {{/has-version-issues}}
   
 ----------
-<sup>Thanks again for contributing.. If you think this review was wrong/unfair/etc. submit a bug on [the bot's repo](https://github.com/jsdelivr/bot)</sup>  
+<sup>Thanks again for contributing. If you think this review was wrong/unfair/etc. submit a bug on [the bot's repo](https://github.com/jsdelivr/bot)</sup>  
 *{{qotd}}*
